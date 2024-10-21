@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://airdelaca.github.io/airdelaca.txt.gz
+Sitemap: https://airdelaca.github.io/app/airdelaca.txt.gz
+Sitemap: https://airdelaca.github.io/assets/airdelaca.txt.gz
+Sitemap: https://airdelaca.github.io/css/airdelaca.txt.gz
+Sitemap: https://airdelaca.github.io/includes/airdelaca.txt.gz
+Sitemap: https://airdelaca.github.io/item/airdelaca.txt.gz
+Sitemap: https://airdelaca.github.io/src/airdelaca.txt.gz
